@@ -36,7 +36,7 @@ I am always ready for the next challenge!
 
 <h1>GitHub Stats</h1>
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mordvash&show_icons=true&locale=en&layout=compact" alt="mordvash" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mordvash&show_icons=true&locale=en" alt="mordvash" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mordvash&show_icons=true&locale=en&layout=compact" alt="mordvash"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mordvash&show_icons=true&locale=en" alt="mordvash" />
 </p>
 

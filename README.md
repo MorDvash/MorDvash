@@ -15,8 +15,6 @@ I am always ready for the next challenge!
 
 - 🔭 I’m currently working on [TradingMore](https://github.com/MorDvash/TradingMore)
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📝 I regularly write articles on [linkedin.com/in/mordvash](linkedin.com/in/mordvash)
 
 - 💬 Ask me about **Vue,Vuex,Css,Node,**

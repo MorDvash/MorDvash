@@ -13,7 +13,7 @@ I am always ready for the next challenge!
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mordvash" alt="mordvash" /></a> </p> -->
 
-- 🔭 I’m currently working on [TradingMore](https://github.com/MorDvash/TradingMore)
+- 🔭 I’m currently working on [TradingMore](https://github.com/MorDvash/TradingMore-server)
 
 - 📝 I regularly write articles on [linkedin.com/in/mordvash](linkedin.com/in/mordvash)
 
